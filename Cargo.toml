@@ -1,0 +1,9 @@
+[package]
+name = "gameboy-rust"
+version = "0.1.0"
+edition = "2018"
+authors = ["Toms Zvirbulis <tomszvirbulis3@gmail.com>"]
+description = "A gameboy emulator."
+
+[dependencies]
+sdl2 = "^0.34.5"
