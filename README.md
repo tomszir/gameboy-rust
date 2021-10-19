@@ -66,3 +66,5 @@ TODO: Make this more clear
 - [GameBoy Opcode Summary](http://www.devrs.com/gb/files/opcodes.html)
 - [Game Boy: Complete Technical Reference](https://gekkio.fi/files/gb-docs/gbctr.pdf)
 - [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+- [GameBoy Emulation](http://www.codeslinger.co.uk/pages/projects/gameboy/beginning.html)
+- [Awesome GBDev](https://github.com/gbdev/awesome-gbdev)
